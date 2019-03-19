@@ -23,14 +23,16 @@
         <version>3.0.5</version>
     </dependency>
     <dependency>
-        <groupId>io.swagger</groupId>
-        <artifactId>swagger-annotations</artifactId>
-        <version>1.5.20</version>
+        <groupId>com.alibaba.boot</groupId>
+        <artifactId>dubbo-spring-boot-starter</artifactId>
+        <version>0.2.0</version>
     </dependency>
     <dependency>
-        <groupId>org.projectlombok</groupId>
-        <artifactId>lombok</artifactId>
-        <version>1.16.22</version>
+        <groupId>com.baomidou</groupId>
+        <artifactId>mybatis-plus-boot-starter</artifactId>
+        <version>3.1.0</version>
+        <!--可选依赖，只是为了防止工程mp的注解报错问题-->
+        <optional>true</optional>
     </dependency>
 </dependencies>
 
