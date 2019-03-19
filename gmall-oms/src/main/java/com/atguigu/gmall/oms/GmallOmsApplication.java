@@ -1,4 +1,4 @@
-package com.atguigu.gmalloms;
+package com.atguigu.gmall.oms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

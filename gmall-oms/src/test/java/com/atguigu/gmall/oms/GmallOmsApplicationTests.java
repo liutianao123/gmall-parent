@@ -1,4 +1,4 @@
-package com.atguigu.gmallcms;
+package com.atguigu.gmall.oms;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class GmallCmsApplicationTests {
+public class GmallOmsApplicationTests {
 
 	@Test
 	public void contextLoads() {
